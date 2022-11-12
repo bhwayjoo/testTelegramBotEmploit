@@ -1,8 +1,8 @@
 import time
 import requests
 
-botKey = '5481264314:AAF2jlw6rpAiLfnNSXnLy8Cm-cXAM1c6JN0'
-chatId= '1601284205'
+botKey = ''
+chatId= ''
 timeInterval=60
 
 timeObject= (time.strftime("%H:%M"))
